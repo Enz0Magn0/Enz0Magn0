@@ -4,7 +4,7 @@ Nome: Enzo Magno ✨
 Idade: 17 ✨
 Nivel Escola: Medio 
 
-Cursando Tecnico De Desenvolvimento de Sistema 🧑‍💻
+Cursando Tecnico De Desenvolvimento de Sistema 🧑‍💻 
 
 Linguagem que eu sei: PYTHON 🧠 
 
