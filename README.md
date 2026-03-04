@@ -10,7 +10,7 @@ Linguagem que eu sei: PYTHON 🧠
 
 Quero Apreder Um Pouco Mais sobre: O Frontend e Backend ⚙️
 
-
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enz0Magn0/Enz0Magn0/output/pacman-contribution-graph-dark.svg">
